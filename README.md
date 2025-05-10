@@ -1,2 +1,2 @@
-# Spotify__Clone http://localhost:5173/
+# Spotify__Clone
 
